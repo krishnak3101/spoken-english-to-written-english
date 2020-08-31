@@ -25,3 +25,10 @@ This is a python library that can convert a paragraph of spoken english to writt
  Written English form of the input is : 
 
  " aaa"
+ 
+
+
+# We can still improve the module that can be continuously matured as you discover more and more conversion rules as follows:
+
+We can add the function in the class Spoken_english_To_Written_written, the function should ask the user for the convention rule we want to add, and the key-value pairs of the convention rules that will be added to the dictionary get_rules, the user given inputs can be added to the dictionary
+
